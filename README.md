@@ -1,14 +1,17 @@
+
 # desafioEduzz
 
-Passos para rodar o server:
-composer install
-copiar o arquivo .env.example para .env
-configurar seu banco de dados no arquivo .env
-php artisan migrate
-php artisan db:seed
-php artisan serve
+## Passos para rodar o server:
+
+ 1. composer install
+ 2. copiar o arquivo .env.example para .env
+ 3. configurar seu banco de dados no arquivo .env
+ 4. php artisan migrate
+ 5. php artisan db:seed
+ 6. php artisan serve
 
 
-Passos para rodar o client:
-yarn install
-yarn start
+## Passos para rodar o client:
+
+ 1. yarn install
+ 2. yarn start
